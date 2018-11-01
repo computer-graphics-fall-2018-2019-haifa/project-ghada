@@ -1,11 +1,9 @@
 # Computer Graphics 203.3710, Winter 2018/2019
 ## Students Team data
 
-Name: 'Your real name'  
-Student Number: 'Your student number'
+Name: 'Ghada Awawdi'  
+Student Number: '315887067'
 
-Name: 'Your real name'  
-Student Number: 'Your student number'
 
 ### Lecturer
 *Roi Poranne*
